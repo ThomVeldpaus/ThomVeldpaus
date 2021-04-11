@@ -4,5 +4,5 @@
 🌱 Just started learning Symfony Framework, and I am getting the hang of it!
 
 👀 click here to check out my Symfony Guestbook project-> https://htsbw4oux4-77bapaeryd3k6.eu.s5y.io/ 
-Laat een leuk bericht achter of een grappig plaatje!
+Leave a comment if you want or a funny image!
 
